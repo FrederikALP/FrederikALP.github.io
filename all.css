@@ -10,6 +10,7 @@
     display: inline-block;
     min-height: 50px;
     min-width: 20px;
+    position: absolute;
 }
 
 .button:hover {
@@ -25,12 +26,28 @@ header {
 }
 
 div.menu{
-    position: center;
+    position: absolute;
     display: inline-block;
     padding: 10px;
     margin: 15px;
 }
 
 div.trololo{
-    position: center;
+    position: absolute;
+}
+
+div.about-description{
+    font-family: "Times New Roman";
+}
+
+div.about-me{
+    font-family: "Times New Roman";
+}
+
+div.motorcycles{
+    font-family: "Times New Roman";
+}
+
+div.motorcycle-desc{
+    font-family: "Times New Roman";
 }
