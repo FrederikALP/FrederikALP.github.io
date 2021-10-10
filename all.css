@@ -7,3 +7,17 @@
     min-height 50px;
     min-width: 20px;
 }
+
+body {
+    background-color: lightblue;
+}
+
+header {
+    background-color: lightsalmon;
+}
+
+div.menu{
+    display: inline-block;
+    padding 10px;
+    margin: 15px;
+}
