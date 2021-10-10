@@ -1,0 +1,9 @@
+.button {
+    background-color: blueviolet;
+    border: 1px solid: black;
+    font: Times New Roman;
+    font-size: 15px;
+    display: inline-block;
+    min-height 50px;
+    min-width: 20px;
+}
