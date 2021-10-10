@@ -1,12 +1,12 @@
 .button {
-    border-radius 10px;
+    border-radius: 10px;
     margin: 10px;
     background-color: blueviolet;
-    border: 1px solid: black;
-    font: Times New Roman;
+    border: 1px; solid: black;
+    font-family: "Times New Roman";
     font-size: 15px;
     display: inline-block;
-    min-height 50px;
+    min-height: 50px;
     min-width: 20px;
 }
 
@@ -20,6 +20,6 @@ header {
 
 div.menu{
     display: inline-block;
-    padding 10px;
+    padding: 10px;
     margin: 15px;
 }
