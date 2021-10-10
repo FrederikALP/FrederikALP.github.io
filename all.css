@@ -25,7 +25,12 @@ header {
 }
 
 div.menu{
+    position: center;
     display: inline-block;
     padding: 10px;
     margin: 15px;
+}
+
+div.trololo{
+    position: center;
 }
